@@ -18,10 +18,12 @@ Databsase Creation steps
 
 4. create table bookings ( id int auto_increment primary key, destination varchar(255), number_of_people int, arrival_date date, leaving_date date, details text );
 
-5. If we are submitted the booking details then go to the command prompt and type the syntax
+5. If we are submitted the booking details in the website we can get the details by going to the command prompt and type the syntax
      select * from bookings; 
 
-Process to be followed for using the code
+
+
+Process to be followed for using the project code
 
 1. Download the zip file and extract the files in xampp/htdocs folder. 
 
