@@ -14,7 +14,7 @@ Databsase Creation steps
    2.4. C:\xampp\mysql>cd bin
    2.5. C:\xampp\mysql\bin>mysql -h localhost -u root
 
-3. Create database tourism_website and use tourism_website
+3. Create database with name  tourism_website and use tourism_website
 
 4. create table bookings ( id int auto_increment primary key, destination varchar(255), number_of_people int, arrival_date date, leaving_date date, details text );
 
